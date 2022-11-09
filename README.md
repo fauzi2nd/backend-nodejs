@@ -15,5 +15,5 @@ Install this depedencies
 ### `npm i express mysql2 sequelize cors`
 
 # RUN Project
-to run this project you must running start XAMPP with database MySQL.
+to run this project you must running XAMPP with database MySQL.
 ## `nodemon index`
